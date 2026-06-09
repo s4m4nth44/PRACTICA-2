@@ -8,8 +8,6 @@ Controlar una matriz LED 8x8 utilizando el microcontrolador PIC16F887
 - XC8
 - Proteus 8
 
-### Clase
-Mostrar una letra X en la matriz LED 8x8.
+### Clase: Mostrar una letra X en la matriz LED 8x8.
 
-### Actividad 1
-Mostrar diferentes letras utilizando la matriz LED 8x8.
+### Actividad 1: Mostrar diferentes letras utilizando la matriz LED 8x8.
