@@ -5,7 +5,7 @@ Controlar una matriz LED 8x8 utilizando el microcontrolador PIC16F887
 
 ## Software utilizado
 - MPLAB X IDE
-- XC8
+- Compilador XC8
 - Proteus 8
 
 ### Clase: Mostrar una letra X en la matriz LED 8x8.
